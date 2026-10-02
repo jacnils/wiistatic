@@ -17,7 +17,6 @@ jobs:
       - name: Install build dependencies
         run: |
           command -v cmake >/dev/null || (apt-get update && apt-get install -y cmake)
-          dkp-pacman -Sy --noconfirm --needed libfat-ogc
 
       - name: Configure
         run: >
