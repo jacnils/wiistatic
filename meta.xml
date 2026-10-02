@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>WiiStatic</name>
+    <coder>Jacob Nilsson</coder>
+    <version>0.1.0</version>
+    <release_date>20261002000000</release_date>
+    <short_description>TV static simulator</short_description>
+    <long_description>Do you have one of those fancy rectangular televisions, but miss the static noise from that old heavy piece of shit?
+        This homebrew application replicates the static from an old television on your Wii.
+        HOME: exit | A: mute | B: toggle CRT band | +/-: volume</long_description>
+</app>
