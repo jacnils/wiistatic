@@ -2,6 +2,8 @@
 
 # WiiStatic
 
+[![Build](https://github.com/jacnils/wiistatic/actions/workflows/build.yml/badge.svg)](https://github.com/jacnils/wiistatic/actions/workflows/build.yml)
+
 TV static simulator for your Nintendo Wii
 
 ---
